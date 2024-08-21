@@ -142,7 +142,7 @@ export const Footer = () => {
                                                     <li>(President)</li>
                                                         <li>
                                                             <i className="fa fa-envelope" id="Cont" ></i>
-                                                            <a href="mailto:president.saeindia@nitdgp.ac.in" className='anchor'>president.saeindia@nitdgp.ac.in</a>
+                                                            <a href="mailto:president.saeindia@nitdgp.ac.in" className='anchor'>siddharthkhandelwal78@gmail.com</a>
                                                         </li>
                                                     <li>
                                                         <i className="fa fa-phone" ></i>
